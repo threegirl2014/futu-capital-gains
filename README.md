@@ -4,6 +4,9 @@
 
 > 当前仅支持股票，不支持期权。
 
+> 由于富途官方已给到股息的数据，所以此skill只用于计算买卖的资本利得。
+
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## ✨ 特性
